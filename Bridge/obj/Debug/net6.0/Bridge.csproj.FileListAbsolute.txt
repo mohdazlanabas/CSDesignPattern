@@ -1,0 +1,15 @@
+E:\Desktop\Software_Lang\Bridge\obj\Debug\net6.0\Bridge.csproj.AssemblyReference.cache
+E:\Desktop\Software_Lang\Bridge\obj\Debug\net6.0\Bridge.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\Software_Lang\Bridge\obj\Debug\net6.0\Bridge.AssemblyInfoInputs.cache
+E:\Desktop\Software_Lang\Bridge\obj\Debug\net6.0\Bridge.AssemblyInfo.cs
+E:\Desktop\Software_Lang\Bridge\obj\Debug\net6.0\Bridge.csproj.CoreCompileInputs.cache
+E:\Desktop\Software_Lang\Bridge\bin\Debug\net6.0\Bridge.exe
+E:\Desktop\Software_Lang\Bridge\bin\Debug\net6.0\Bridge.deps.json
+E:\Desktop\Software_Lang\Bridge\bin\Debug\net6.0\Bridge.runtimeconfig.json
+E:\Desktop\Software_Lang\Bridge\bin\Debug\net6.0\Bridge.dll
+E:\Desktop\Software_Lang\Bridge\bin\Debug\net6.0\Bridge.pdb
+E:\Desktop\Software_Lang\Bridge\obj\Debug\net6.0\Bridge.dll
+E:\Desktop\Software_Lang\Bridge\obj\Debug\net6.0\refint\Bridge.dll
+E:\Desktop\Software_Lang\Bridge\obj\Debug\net6.0\Bridge.pdb
+E:\Desktop\Software_Lang\Bridge\obj\Debug\net6.0\Bridge.genruntimeconfig.cache
+E:\Desktop\Software_Lang\Bridge\obj\Debug\net6.0\ref\Bridge.dll

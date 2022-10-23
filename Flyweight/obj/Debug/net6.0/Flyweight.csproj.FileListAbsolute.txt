@@ -1,0 +1,17 @@
+E:\Desktop\Software_Lang\Flyweight\bin\Debug\net6.0\Flyweight.exe
+E:\Desktop\Software_Lang\Flyweight\bin\Debug\net6.0\Flyweight.deps.json
+E:\Desktop\Software_Lang\Flyweight\bin\Debug\net6.0\Flyweight.runtimeconfig.json
+E:\Desktop\Software_Lang\Flyweight\bin\Debug\net6.0\Flyweight.dll
+E:\Desktop\Software_Lang\Flyweight\bin\Debug\net6.0\Flyweight.pdb
+E:\Desktop\Software_Lang\Flyweight\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Desktop\Software_Lang\Flyweight\obj\Debug\net6.0\Flyweight.csproj.AssemblyReference.cache
+E:\Desktop\Software_Lang\Flyweight\obj\Debug\net6.0\Flyweight.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\Software_Lang\Flyweight\obj\Debug\net6.0\Flyweight.AssemblyInfoInputs.cache
+E:\Desktop\Software_Lang\Flyweight\obj\Debug\net6.0\Flyweight.AssemblyInfo.cs
+E:\Desktop\Software_Lang\Flyweight\obj\Debug\net6.0\Flyweight.csproj.CoreCompileInputs.cache
+E:\Desktop\Software_Lang\Flyweight\obj\Debug\net6.0\Flyweight.csproj.CopyComplete
+E:\Desktop\Software_Lang\Flyweight\obj\Debug\net6.0\Flyweight.dll
+E:\Desktop\Software_Lang\Flyweight\obj\Debug\net6.0\refint\Flyweight.dll
+E:\Desktop\Software_Lang\Flyweight\obj\Debug\net6.0\Flyweight.pdb
+E:\Desktop\Software_Lang\Flyweight\obj\Debug\net6.0\Flyweight.genruntimeconfig.cache
+E:\Desktop\Software_Lang\Flyweight\obj\Debug\net6.0\ref\Flyweight.dll

@@ -1,0 +1,15 @@
+E:\Desktop\Software_Lang\Composite\obj\Debug\net6.0\Composite.csproj.AssemblyReference.cache
+E:\Desktop\Software_Lang\Composite\obj\Debug\net6.0\Composite.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\Software_Lang\Composite\obj\Debug\net6.0\Composite.AssemblyInfoInputs.cache
+E:\Desktop\Software_Lang\Composite\obj\Debug\net6.0\Composite.AssemblyInfo.cs
+E:\Desktop\Software_Lang\Composite\obj\Debug\net6.0\Composite.csproj.CoreCompileInputs.cache
+E:\Desktop\Software_Lang\Composite\bin\Debug\net6.0\Composite.exe
+E:\Desktop\Software_Lang\Composite\bin\Debug\net6.0\Composite.deps.json
+E:\Desktop\Software_Lang\Composite\bin\Debug\net6.0\Composite.runtimeconfig.json
+E:\Desktop\Software_Lang\Composite\bin\Debug\net6.0\Composite.dll
+E:\Desktop\Software_Lang\Composite\bin\Debug\net6.0\Composite.pdb
+E:\Desktop\Software_Lang\Composite\obj\Debug\net6.0\Composite.dll
+E:\Desktop\Software_Lang\Composite\obj\Debug\net6.0\refint\Composite.dll
+E:\Desktop\Software_Lang\Composite\obj\Debug\net6.0\Composite.pdb
+E:\Desktop\Software_Lang\Composite\obj\Debug\net6.0\Composite.genruntimeconfig.cache
+E:\Desktop\Software_Lang\Composite\obj\Debug\net6.0\ref\Composite.dll

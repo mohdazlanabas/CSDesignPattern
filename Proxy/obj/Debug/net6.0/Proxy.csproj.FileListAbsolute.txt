@@ -1,0 +1,15 @@
+E:\Desktop\Software_Lang\Proxy\obj\Debug\net6.0\Proxy.csproj.AssemblyReference.cache
+E:\Desktop\Software_Lang\Proxy\obj\Debug\net6.0\Proxy.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\Software_Lang\Proxy\obj\Debug\net6.0\Proxy.AssemblyInfoInputs.cache
+E:\Desktop\Software_Lang\Proxy\obj\Debug\net6.0\Proxy.AssemblyInfo.cs
+E:\Desktop\Software_Lang\Proxy\obj\Debug\net6.0\Proxy.csproj.CoreCompileInputs.cache
+E:\Desktop\Software_Lang\Proxy\bin\Debug\net6.0\Proxy.exe
+E:\Desktop\Software_Lang\Proxy\bin\Debug\net6.0\Proxy.deps.json
+E:\Desktop\Software_Lang\Proxy\bin\Debug\net6.0\Proxy.runtimeconfig.json
+E:\Desktop\Software_Lang\Proxy\bin\Debug\net6.0\Proxy.dll
+E:\Desktop\Software_Lang\Proxy\bin\Debug\net6.0\Proxy.pdb
+E:\Desktop\Software_Lang\Proxy\obj\Debug\net6.0\Proxy.dll
+E:\Desktop\Software_Lang\Proxy\obj\Debug\net6.0\refint\Proxy.dll
+E:\Desktop\Software_Lang\Proxy\obj\Debug\net6.0\Proxy.pdb
+E:\Desktop\Software_Lang\Proxy\obj\Debug\net6.0\Proxy.genruntimeconfig.cache
+E:\Desktop\Software_Lang\Proxy\obj\Debug\net6.0\ref\Proxy.dll

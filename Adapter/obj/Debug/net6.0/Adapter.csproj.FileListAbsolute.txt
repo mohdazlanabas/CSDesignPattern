@@ -1,0 +1,15 @@
+E:\Desktop\Software_Lang\Adapter\obj\Debug\net6.0\Adapter.csproj.AssemblyReference.cache
+E:\Desktop\Software_Lang\Adapter\obj\Debug\net6.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\Software_Lang\Adapter\obj\Debug\net6.0\Adapter.AssemblyInfoInputs.cache
+E:\Desktop\Software_Lang\Adapter\obj\Debug\net6.0\Adapter.AssemblyInfo.cs
+E:\Desktop\Software_Lang\Adapter\obj\Debug\net6.0\Adapter.csproj.CoreCompileInputs.cache
+E:\Desktop\Software_Lang\Adapter\bin\Debug\net6.0\Adapter.exe
+E:\Desktop\Software_Lang\Adapter\bin\Debug\net6.0\Adapter.deps.json
+E:\Desktop\Software_Lang\Adapter\bin\Debug\net6.0\Adapter.runtimeconfig.json
+E:\Desktop\Software_Lang\Adapter\bin\Debug\net6.0\Adapter.dll
+E:\Desktop\Software_Lang\Adapter\bin\Debug\net6.0\Adapter.pdb
+E:\Desktop\Software_Lang\Adapter\obj\Debug\net6.0\Adapter.dll
+E:\Desktop\Software_Lang\Adapter\obj\Debug\net6.0\refint\Adapter.dll
+E:\Desktop\Software_Lang\Adapter\obj\Debug\net6.0\Adapter.pdb
+E:\Desktop\Software_Lang\Adapter\obj\Debug\net6.0\Adapter.genruntimeconfig.cache
+E:\Desktop\Software_Lang\Adapter\obj\Debug\net6.0\ref\Adapter.dll

@@ -1,0 +1,15 @@
+E:\Desktop\Software_Lang\Abstract\obj\Debug\net6.0\Abstract.csproj.AssemblyReference.cache
+E:\Desktop\Software_Lang\Abstract\obj\Debug\net6.0\Abstract.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\Software_Lang\Abstract\obj\Debug\net6.0\Abstract.AssemblyInfoInputs.cache
+E:\Desktop\Software_Lang\Abstract\obj\Debug\net6.0\Abstract.AssemblyInfo.cs
+E:\Desktop\Software_Lang\Abstract\obj\Debug\net6.0\Abstract.csproj.CoreCompileInputs.cache
+E:\Desktop\Software_Lang\Abstract\bin\Debug\net6.0\Abstract.exe
+E:\Desktop\Software_Lang\Abstract\bin\Debug\net6.0\Abstract.deps.json
+E:\Desktop\Software_Lang\Abstract\bin\Debug\net6.0\Abstract.runtimeconfig.json
+E:\Desktop\Software_Lang\Abstract\bin\Debug\net6.0\Abstract.dll
+E:\Desktop\Software_Lang\Abstract\bin\Debug\net6.0\Abstract.pdb
+E:\Desktop\Software_Lang\Abstract\obj\Debug\net6.0\Abstract.dll
+E:\Desktop\Software_Lang\Abstract\obj\Debug\net6.0\refint\Abstract.dll
+E:\Desktop\Software_Lang\Abstract\obj\Debug\net6.0\Abstract.pdb
+E:\Desktop\Software_Lang\Abstract\obj\Debug\net6.0\Abstract.genruntimeconfig.cache
+E:\Desktop\Software_Lang\Abstract\obj\Debug\net6.0\ref\Abstract.dll
