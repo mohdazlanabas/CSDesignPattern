@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Desktop\\CSDesignPattern\\Adapter\\Adapter.csproj": {}
+    "E:\\Desktop\\Software_Lang\\Github2022v01\\CSDesignPattern\\Adapter\\Adapter.csproj": {}
   },
   "projects": {
-    "E:\\Desktop\\CSDesignPattern\\Adapter\\Adapter.csproj": {
+    "E:\\Desktop\\Software_Lang\\Github2022v01\\CSDesignPattern\\Adapter\\Adapter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Desktop\\CSDesignPattern\\Adapter\\Adapter.csproj",
+        "projectUniqueName": "E:\\Desktop\\Software_Lang\\Github2022v01\\CSDesignPattern\\Adapter\\Adapter.csproj",
         "projectName": "Adapter",
-        "projectPath": "E:\\Desktop\\CSDesignPattern\\Adapter\\Adapter.csproj",
+        "projectPath": "E:\\Desktop\\Software_Lang\\Github2022v01\\CSDesignPattern\\Adapter\\Adapter.csproj",
         "packagesPath": "C:\\Users\\mohda\\.nuget\\packages\\",
-        "outputPath": "E:\\Desktop\\CSDesignPattern\\Adapter\\obj\\",
+        "outputPath": "E:\\Desktop\\Software_Lang\\Github2022v01\\CSDesignPattern\\Adapter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mohda\\AppData\\Roaming\\NuGet\\NuGet.Config",

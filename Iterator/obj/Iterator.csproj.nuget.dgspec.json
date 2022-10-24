@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Desktop\\CSDesignPattern\\Iterator\\Iterator.csproj": {}
+    "E:\\Desktop\\Software_Lang\\Github2022v01\\CSDesignPattern\\Iterator\\Iterator.csproj": {}
   },
   "projects": {
-    "E:\\Desktop\\CSDesignPattern\\Iterator\\Iterator.csproj": {
+    "E:\\Desktop\\Software_Lang\\Github2022v01\\CSDesignPattern\\Iterator\\Iterator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Desktop\\CSDesignPattern\\Iterator\\Iterator.csproj",
+        "projectUniqueName": "E:\\Desktop\\Software_Lang\\Github2022v01\\CSDesignPattern\\Iterator\\Iterator.csproj",
         "projectName": "Iterator",
-        "projectPath": "E:\\Desktop\\CSDesignPattern\\Iterator\\Iterator.csproj",
+        "projectPath": "E:\\Desktop\\Software_Lang\\Github2022v01\\CSDesignPattern\\Iterator\\Iterator.csproj",
         "packagesPath": "C:\\Users\\mohda\\.nuget\\packages\\",
-        "outputPath": "E:\\Desktop\\CSDesignPattern\\Iterator\\obj\\",
+        "outputPath": "E:\\Desktop\\Software_Lang\\Github2022v01\\CSDesignPattern\\Iterator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mohda\\AppData\\Roaming\\NuGet\\NuGet.Config",

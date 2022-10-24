@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Desktop\\CSDesignPattern\\Chain\\Chain.csproj",
+      "projectUniqueName": "E:\\Desktop\\Software_Lang\\Github2022v01\\CSDesignPattern\\Chain\\Chain.csproj",
       "projectName": "Chain",
-      "projectPath": "E:\\Desktop\\CSDesignPattern\\Chain\\Chain.csproj",
+      "projectPath": "E:\\Desktop\\Software_Lang\\Github2022v01\\CSDesignPattern\\Chain\\Chain.csproj",
       "packagesPath": "C:\\Users\\mohda\\.nuget\\packages\\",
-      "outputPath": "E:\\Desktop\\CSDesignPattern\\Chain\\obj\\",
+      "outputPath": "E:\\Desktop\\Software_Lang\\Github2022v01\\CSDesignPattern\\Chain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mohda\\AppData\\Roaming\\NuGet\\NuGet.Config",

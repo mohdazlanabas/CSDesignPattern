@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Desktop\\CSDesignPattern\\Builder\\Builder.csproj": {}
+    "E:\\Desktop\\Software_Lang\\Github2022v01\\CSDesignPattern\\Builder\\Builder.csproj": {}
   },
   "projects": {
-    "E:\\Desktop\\CSDesignPattern\\Builder\\Builder.csproj": {
+    "E:\\Desktop\\Software_Lang\\Github2022v01\\CSDesignPattern\\Builder\\Builder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Desktop\\CSDesignPattern\\Builder\\Builder.csproj",
+        "projectUniqueName": "E:\\Desktop\\Software_Lang\\Github2022v01\\CSDesignPattern\\Builder\\Builder.csproj",
         "projectName": "Builder",
-        "projectPath": "E:\\Desktop\\CSDesignPattern\\Builder\\Builder.csproj",
+        "projectPath": "E:\\Desktop\\Software_Lang\\Github2022v01\\CSDesignPattern\\Builder\\Builder.csproj",
         "packagesPath": "C:\\Users\\mohda\\.nuget\\packages\\",
-        "outputPath": "E:\\Desktop\\CSDesignPattern\\Builder\\obj\\",
+        "outputPath": "E:\\Desktop\\Software_Lang\\Github2022v01\\CSDesignPattern\\Builder\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mohda\\AppData\\Roaming\\NuGet\\NuGet.Config",

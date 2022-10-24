@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RrhQHrKckrlSgypHBi8KE5EqR2qQX1UlDL0KyzfQLi7+ojmmbeNoDyheyLn0XzP6dB1JyC2iZQ8DhA3cdjsI5w==",
+  "dgSpecHash": "/72drWr96FuP123/dPdv8fOrHYalI2X/JPx2emuClq7XZtiVMHRefTBMgL/QfQi9zcPJpRkd+hKndiLwHEQ9pQ==",
   "success": true,
-  "projectFilePath": "E:\\Desktop\\CSDesignPattern\\Singleton\\Singleton.csproj",
+  "projectFilePath": "E:\\Desktop\\Software_Lang\\Github2022v01\\CSDesignPattern\\Singleton\\Singleton.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

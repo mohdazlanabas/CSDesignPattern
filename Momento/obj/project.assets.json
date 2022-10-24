@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Desktop\\CSDesignPattern\\Momento\\Memento.csproj",
+      "projectUniqueName": "E:\\Desktop\\Software_Lang\\Github2022v01\\CSDesignPattern\\Momento\\Memento.csproj",
       "projectName": "Memento",
-      "projectPath": "E:\\Desktop\\CSDesignPattern\\Momento\\Memento.csproj",
+      "projectPath": "E:\\Desktop\\Software_Lang\\Github2022v01\\CSDesignPattern\\Momento\\Memento.csproj",
       "packagesPath": "C:\\Users\\mohda\\.nuget\\packages\\",
-      "outputPath": "E:\\Desktop\\CSDesignPattern\\Momento\\obj\\",
+      "outputPath": "E:\\Desktop\\Software_Lang\\Github2022v01\\CSDesignPattern\\Momento\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mohda\\AppData\\Roaming\\NuGet\\NuGet.Config",

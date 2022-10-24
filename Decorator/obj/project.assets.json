@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Desktop\\CSDesignPattern\\Decorator\\Decorator.csproj",
+      "projectUniqueName": "E:\\Desktop\\Software_Lang\\Github2022v01\\CSDesignPattern\\Decorator\\Decorator.csproj",
       "projectName": "Decorator",
-      "projectPath": "E:\\Desktop\\CSDesignPattern\\Decorator\\Decorator.csproj",
+      "projectPath": "E:\\Desktop\\Software_Lang\\Github2022v01\\CSDesignPattern\\Decorator\\Decorator.csproj",
       "packagesPath": "C:\\Users\\mohda\\.nuget\\packages\\",
-      "outputPath": "E:\\Desktop\\CSDesignPattern\\Decorator\\obj\\",
+      "outputPath": "E:\\Desktop\\Software_Lang\\Github2022v01\\CSDesignPattern\\Decorator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mohda\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HdeLDjTRo6zhcD0Wvvu5+2+y9top5WjmrpGlE3VxQF2VXQkot2hoq5JcDlRKiAgmYQzndgbHlC/yyDmLZ2jyUA==",
+  "dgSpecHash": "G/3pBcZfqjwmoubnLWrTs4opeKuKviVHHSI9S71tSN15Ldf/QX1WcNGpfWMAvWDyhSEEmXL7WpoHATY8vIcaSA==",
   "success": true,
-  "projectFilePath": "E:\\Desktop\\CSDesignPattern\\Observor\\Observer.csproj",
+  "projectFilePath": "E:\\Desktop\\Software_Lang\\Github2022v01\\CSDesignPattern\\Observor\\Observer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

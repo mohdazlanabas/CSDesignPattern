@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Desktop\\CSDesignPattern\\Abstract\\Abstract.csproj",
+      "projectUniqueName": "E:\\Desktop\\Software_Lang\\Github2022v01\\CSDesignPattern\\Abstract\\Abstract.csproj",
       "projectName": "Abstract",
-      "projectPath": "E:\\Desktop\\CSDesignPattern\\Abstract\\Abstract.csproj",
+      "projectPath": "E:\\Desktop\\Software_Lang\\Github2022v01\\CSDesignPattern\\Abstract\\Abstract.csproj",
       "packagesPath": "C:\\Users\\mohda\\.nuget\\packages\\",
-      "outputPath": "E:\\Desktop\\CSDesignPattern\\Abstract\\obj\\",
+      "outputPath": "E:\\Desktop\\Software_Lang\\Github2022v01\\CSDesignPattern\\Abstract\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mohda\\AppData\\Roaming\\NuGet\\NuGet.Config",

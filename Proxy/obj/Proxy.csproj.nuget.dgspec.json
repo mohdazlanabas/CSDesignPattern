@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Desktop\\CSDesignPattern\\Proxy\\Proxy.csproj": {}
+    "E:\\Desktop\\Software_Lang\\Github2022v01\\CSDesignPattern\\Proxy\\Proxy.csproj": {}
   },
   "projects": {
-    "E:\\Desktop\\CSDesignPattern\\Proxy\\Proxy.csproj": {
+    "E:\\Desktop\\Software_Lang\\Github2022v01\\CSDesignPattern\\Proxy\\Proxy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Desktop\\CSDesignPattern\\Proxy\\Proxy.csproj",
+        "projectUniqueName": "E:\\Desktop\\Software_Lang\\Github2022v01\\CSDesignPattern\\Proxy\\Proxy.csproj",
         "projectName": "Proxy",
-        "projectPath": "E:\\Desktop\\CSDesignPattern\\Proxy\\Proxy.csproj",
+        "projectPath": "E:\\Desktop\\Software_Lang\\Github2022v01\\CSDesignPattern\\Proxy\\Proxy.csproj",
         "packagesPath": "C:\\Users\\mohda\\.nuget\\packages\\",
-        "outputPath": "E:\\Desktop\\CSDesignPattern\\Proxy\\obj\\",
+        "outputPath": "E:\\Desktop\\Software_Lang\\Github2022v01\\CSDesignPattern\\Proxy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mohda\\AppData\\Roaming\\NuGet\\NuGet.Config",

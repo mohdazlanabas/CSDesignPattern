@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cl7zLQadjwq5DPTZ+QRg+ViGFwZOKwnFWcvbiiGEVwt2M4gFk2fBZ+LfYERNetaFA+Btb8agk4fkr/V4rGVSqA==",
+  "dgSpecHash": "ZrAqRlE7qBeLmGzf/y/jaGN2F2iJR58PvQq8MicEHDouX6MNnrsN0B1b3iOE9vhjB8m3XBLbnTAO0N2GqAvY7Q==",
   "success": true,
-  "projectFilePath": "E:\\Desktop\\CSDesignPattern\\Strategy\\Strategy.csproj",
+  "projectFilePath": "E:\\Desktop\\Software_Lang\\Github2022v01\\CSDesignPattern\\Strategy\\Strategy.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

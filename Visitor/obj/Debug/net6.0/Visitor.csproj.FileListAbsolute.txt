@@ -1,0 +1,15 @@
+E:\Desktop\Software_Lang\Github2022v01\CSDesignPattern\Visitor\bin\Debug\net6.0\Visitor.exe
+E:\Desktop\Software_Lang\Github2022v01\CSDesignPattern\Visitor\bin\Debug\net6.0\Visitor.deps.json
+E:\Desktop\Software_Lang\Github2022v01\CSDesignPattern\Visitor\bin\Debug\net6.0\Visitor.runtimeconfig.json
+E:\Desktop\Software_Lang\Github2022v01\CSDesignPattern\Visitor\bin\Debug\net6.0\Visitor.dll
+E:\Desktop\Software_Lang\Github2022v01\CSDesignPattern\Visitor\bin\Debug\net6.0\Visitor.pdb
+E:\Desktop\Software_Lang\Github2022v01\CSDesignPattern\Visitor\obj\Debug\net6.0\Visitor.csproj.AssemblyReference.cache
+E:\Desktop\Software_Lang\Github2022v01\CSDesignPattern\Visitor\obj\Debug\net6.0\Visitor.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\Software_Lang\Github2022v01\CSDesignPattern\Visitor\obj\Debug\net6.0\Visitor.AssemblyInfoInputs.cache
+E:\Desktop\Software_Lang\Github2022v01\CSDesignPattern\Visitor\obj\Debug\net6.0\Visitor.AssemblyInfo.cs
+E:\Desktop\Software_Lang\Github2022v01\CSDesignPattern\Visitor\obj\Debug\net6.0\Visitor.csproj.CoreCompileInputs.cache
+E:\Desktop\Software_Lang\Github2022v01\CSDesignPattern\Visitor\obj\Debug\net6.0\Visitor.dll
+E:\Desktop\Software_Lang\Github2022v01\CSDesignPattern\Visitor\obj\Debug\net6.0\refint\Visitor.dll
+E:\Desktop\Software_Lang\Github2022v01\CSDesignPattern\Visitor\obj\Debug\net6.0\Visitor.pdb
+E:\Desktop\Software_Lang\Github2022v01\CSDesignPattern\Visitor\obj\Debug\net6.0\Visitor.genruntimeconfig.cache
+E:\Desktop\Software_Lang\Github2022v01\CSDesignPattern\Visitor\obj\Debug\net6.0\ref\Visitor.dll

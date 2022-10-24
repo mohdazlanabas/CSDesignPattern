@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w7jhCYd97keUhbymyUL3pqYw19yfD/ujf2e8q8KLX/Vcqb2oWp8v3AlVcfDASyAT0aj8hpRDcrLrhioCaYkZKw==",
+  "dgSpecHash": "MVfT2zNU3tlZ3JS5TFld/KGWDLK3+mTklG/Yd0xWGj0YDrDC7pLpcWYaJAdG9Rp89Vy+lkhQU0KU1KXUbskrTw==",
   "success": true,
-  "projectFilePath": "E:\\Desktop\\CSDesignPattern\\Momento\\Memento.csproj",
+  "projectFilePath": "E:\\Desktop\\Software_Lang\\Github2022v01\\CSDesignPattern\\Momento\\Memento.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

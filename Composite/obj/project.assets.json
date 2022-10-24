@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Desktop\\CSDesignPattern\\Composite\\Composite.csproj",
+      "projectUniqueName": "E:\\Desktop\\Software_Lang\\Github2022v01\\CSDesignPattern\\Composite\\Composite.csproj",
       "projectName": "Composite",
-      "projectPath": "E:\\Desktop\\CSDesignPattern\\Composite\\Composite.csproj",
+      "projectPath": "E:\\Desktop\\Software_Lang\\Github2022v01\\CSDesignPattern\\Composite\\Composite.csproj",
       "packagesPath": "C:\\Users\\mohda\\.nuget\\packages\\",
-      "outputPath": "E:\\Desktop\\CSDesignPattern\\Composite\\obj\\",
+      "outputPath": "E:\\Desktop\\Software_Lang\\Github2022v01\\CSDesignPattern\\Composite\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mohda\\AppData\\Roaming\\NuGet\\NuGet.Config",

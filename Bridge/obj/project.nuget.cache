@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "64g3Xh9HFB5Mi53qknzTLb0zGarTFW4h1WuLESO5pLGKk+Tq49GPcTFwLFWpOs1U/4rZgpdwBrCsLpjvuZBG8w==",
+  "dgSpecHash": "I53ifOzg+qwE0pQp7rLTHS7VjG1UjAyJpMQ1HFe8vtdip4iF4ybD/q2+uWWMMlCL3oxGKhB0UsE4wG1zo73bZQ==",
   "success": true,
-  "projectFilePath": "E:\\Desktop\\CSDesignPattern\\Bridge\\Bridge.csproj",
+  "projectFilePath": "E:\\Desktop\\Software_Lang\\Github2022v01\\CSDesignPattern\\Bridge\\Bridge.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

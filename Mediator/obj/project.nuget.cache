@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FRqpoHKPj85zqUEorT1ili5TmLB+QNfWFcbr63xAQWW3Yh7T7v+m339DjuUt0KAmCG4pkJYrnZndXtB65EHkTQ==",
+  "dgSpecHash": "JCtu90m1W5wL/NNWtdYpY+wslYhTukL3Ms+TwJc23wF7EYrEB5Kq+DV294qr/z5QQVrntZlHfpGldYTH5aLt1A==",
   "success": true,
-  "projectFilePath": "E:\\Desktop\\CSDesignPattern\\Mediator\\Mediator.csproj",
+  "projectFilePath": "E:\\Desktop\\Software_Lang\\Github2022v01\\CSDesignPattern\\Mediator\\Mediator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,0 +1,15 @@
+E:\Desktop\Software_Lang\Github2022v01\CSDesignPattern\Mediator\bin\Debug\net6.0\Mediator.exe
+E:\Desktop\Software_Lang\Github2022v01\CSDesignPattern\Mediator\bin\Debug\net6.0\Mediator.deps.json
+E:\Desktop\Software_Lang\Github2022v01\CSDesignPattern\Mediator\bin\Debug\net6.0\Mediator.runtimeconfig.json
+E:\Desktop\Software_Lang\Github2022v01\CSDesignPattern\Mediator\bin\Debug\net6.0\Mediator.dll
+E:\Desktop\Software_Lang\Github2022v01\CSDesignPattern\Mediator\bin\Debug\net6.0\Mediator.pdb
+E:\Desktop\Software_Lang\Github2022v01\CSDesignPattern\Mediator\obj\Debug\net6.0\Mediator.csproj.AssemblyReference.cache
+E:\Desktop\Software_Lang\Github2022v01\CSDesignPattern\Mediator\obj\Debug\net6.0\Mediator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\Software_Lang\Github2022v01\CSDesignPattern\Mediator\obj\Debug\net6.0\Mediator.AssemblyInfoInputs.cache
+E:\Desktop\Software_Lang\Github2022v01\CSDesignPattern\Mediator\obj\Debug\net6.0\Mediator.AssemblyInfo.cs
+E:\Desktop\Software_Lang\Github2022v01\CSDesignPattern\Mediator\obj\Debug\net6.0\Mediator.csproj.CoreCompileInputs.cache
+E:\Desktop\Software_Lang\Github2022v01\CSDesignPattern\Mediator\obj\Debug\net6.0\Mediator.dll
+E:\Desktop\Software_Lang\Github2022v01\CSDesignPattern\Mediator\obj\Debug\net6.0\refint\Mediator.dll
+E:\Desktop\Software_Lang\Github2022v01\CSDesignPattern\Mediator\obj\Debug\net6.0\Mediator.pdb
+E:\Desktop\Software_Lang\Github2022v01\CSDesignPattern\Mediator\obj\Debug\net6.0\Mediator.genruntimeconfig.cache
+E:\Desktop\Software_Lang\Github2022v01\CSDesignPattern\Mediator\obj\Debug\net6.0\ref\Mediator.dll

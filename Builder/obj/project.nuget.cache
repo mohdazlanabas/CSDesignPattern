@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SU3IWnIIgNfcBlV6Hw8qkKmJNcl4gbWsofyNGLhjp1VrqIuSBc6ke3KuWH6/Up/0FgTMop3B/IHV7kvoTzlAdw==",
+  "dgSpecHash": "dcZ+fHsEeZd+4xaSF92pXYIur0+Ou482GBt7mYLOMBLdno9FfId8UPR5C3tisZ5j2b1+VTIwtLZT5gSLy/INqw==",
   "success": true,
-  "projectFilePath": "E:\\Desktop\\CSDesignPattern\\Builder\\Builder.csproj",
+  "projectFilePath": "E:\\Desktop\\Software_Lang\\Github2022v01\\CSDesignPattern\\Builder\\Builder.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
